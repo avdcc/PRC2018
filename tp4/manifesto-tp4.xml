@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifesto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:./manifesto.xsd">
+  <meta>
+    <id>PG38406</id>
+    <título>TP2</título>
+    <subtítulo>Relatório de Trabalho Prático</subtítulo>
+    <dinício>18/02/2019</dinício>
+    <dfim>25/02/2019</dfim>
+    <supervisor>
+      <nome>José Carlos Leite Ramalho</nome>
+      <email>jcr@di.uminho.pt</email>
+      <website>http://www4.di.uminho.pt/~jcr/</website>
+    </supervisor>
+  </meta>
+  <equipe>
+    <elemento>
+      <id>PG38406</id>
+      <nome>Adriano Campinho</nome>
+      <email>pg38406@alunos.uminho.pt</email>
+      <!-- <website>website1</website> -->
+      <!-- <foto path="path0"/> -->
+    </elemento>
+  </equipe>
+  <resumo>
+    <para>
+        O objectivo do trabalho consiste em acrescenta à ontologia o conceito de molécula com as propriedades suficientes para adicionares algumas instâncias.
+    </para>
+    <para>
+      Foi aberto o ficheiro dado na ferramenta protege. Tendo depois sido criadas a class "Molecule", foi criada a propriedade de objecto "molecule", e foi adicionado a propriedade de data "fusionPoint" e "ebollutionPoint".
+    </para>
+    <para>
+      Por ultimo foram criadas as instancias relativas a cada uma das moleculas pedidas.
+    </para>
+  </resumo>
+  <resultados>
+    <resultado path='manifesto-tp4.html'>
+      manifesto-tp5 (html)
+    </resultado>
+    <resultado path='./Periodic_Table.rdf'>
+      Periodic_Table (rdf)
+    </resultado>
+  </resultados>
+</manifesto>
